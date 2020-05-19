@@ -1,0 +1,20 @@
+            Projet Sytème:
+
+Foncionnalités:
+
+ -A l'ouverture le mode normal est actioné pour n'importe quel action.
+ -Vous pouvez choisir le mode avec le quel vous voulez travailler en etant dans le mode normal.
+ -Mode insertion:
+    -le prblème de ce mode réside en cas d'un fichier vide et certaines fois à la fin de la 
+    ligne où les \n ne sont pas traîtés.
+    -Possibilité de se deplacer en souris ou en clavier.
+    -Pour la suppression, aux ligne vides on retrouve quelques soucis de gestion.
+
+ -Mode Remplacement;
+    -Il est possible de se deplacer dans tout le fichier avec la souris ou le curseur (flèches), 
+    mais aucune possibilité de supprimer cependant il est totallement possible de remplacer les caractères.
+ 
+ -Mode normal:
+    -choix de quitter :q .
+    -Choix de sauvgarde :w .
+    -Choix de changer de mode "i" pour insertion et "r" pour Remplacement.
